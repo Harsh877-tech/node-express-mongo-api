@@ -8,7 +8,7 @@ A simple RESTful API for managing cricket player data using Node.js, Express, an
 ## Setup
 1. Clone the repo
 2. Run npm install
-3. Create ".env" file with your MongoDB URI
+3. Create ".env" file with  MongoDB URI
 4. Start server: node server.js
 
 ## API Endpoints
@@ -17,11 +17,10 @@ A simple RESTful API for managing cricket player data using Node.js, Express, an
 - PATCH "/api/players/:id" - Update a player
 - DELETE "/api/players/:id" - Delete a player
 
-## Technologies
+## Technologies I used
 - Node.js
 - Express.js
 - MongoDB Atlas
 - Mongoose
 
-## Author
-Harshavardhan Cholleti
+
